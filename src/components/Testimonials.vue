@@ -146,6 +146,7 @@ export default {
   .testimonial-text {
     font-size: 14px;
     padding: 10px;
+    max-width: 90vw;
   }
 
   .profile {

@@ -47,6 +47,9 @@ export default {
 h2 {
   margin: 50px 0px 15px 0px;
 }
+.home {
+  padding: 10px;
+}
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -56,13 +59,12 @@ h2 {
   flex: 33%;
   max-width: 33%;
   display: flex;
-  padding: 10px 10px 10px 0px;
   display: flex;
   justify-content: center;
+  padding: 10px 0px;
 }
 .project-card {
-      min-height:315px;
-
+  min-height:315px;
   max-height: 350px;
   overflow: hidden;
 }
