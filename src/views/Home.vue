@@ -61,7 +61,7 @@ h2 {
   display: flex;
   display: flex;
   justify-content: center;
-  padding: 10px 0px;
+  padding: 10px 10px 10px 0px;
 }
 .project-card {
   min-height:315px;
@@ -88,6 +88,7 @@ h2 {
   .column {
     flex: 100%;
     max-width: 100%;
+    padding: 10px 0px;
   }
 }
 </style>
